@@ -7,7 +7,7 @@ const App = () => {
     error => console.log(error)
   );
 
-  return <div>Hi there</div>;
+  return <div>Latitude: </div>;
 };
 
 ReactDOM.render(<App />, document.querySelector("#root"));
