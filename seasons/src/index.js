@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { REFUSED } from "dns";
 
 class App extends React.Componet {
   render() {
