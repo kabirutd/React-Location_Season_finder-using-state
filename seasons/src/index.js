@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-constApp = () => {
+const App = () => {
   return <div>Hello World</div>;
 };
 
