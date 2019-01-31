@@ -1,6 +1,6 @@
-import react from "react";
+import React from "react";
 
-const spinner = () => {
+const Spinner = () => {
   return (
     <div>
       div class="ui segment">
