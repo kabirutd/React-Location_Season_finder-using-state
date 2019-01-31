@@ -1,6 +1,5 @@
 //Import react
 import React from "react";
-//Import react
 import ReactDOM from "react-dom";
 import SeasonDisplay from "./SeasonDisplay";
 import Spinner from "./Spinner";
